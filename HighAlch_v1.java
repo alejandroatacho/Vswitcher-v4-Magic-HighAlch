@@ -1,0 +1,2 @@
+v.invoke("Cast","<col=00ff00>High Level Alchemy</col>",0,25,-1,14286888,false);
+v.invoke("Cast","<col=00ff00>High Level Alchemy</col><col=ffffff> -> <col=ff9040>Magic longbow</col>",0,58,11,9764864,false);
